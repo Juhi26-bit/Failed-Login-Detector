@@ -1,0 +1,2 @@
+source_ip,failed_attempts,window_start,window_end,severity,reason
+203.0.113.25,5,2026-10-21 09:00:00,2026-10-21 09:04:00,MEDIUM,At least 5 failed logins within 5 minutes
